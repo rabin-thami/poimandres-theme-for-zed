@@ -4,7 +4,7 @@ version = "0.1.0"
 schema_version = 1
 authors = ["drcmda <contact@pmnd.rs>"]
 description = "Minimal, frameless dark theme focused on semantic meaning. Port of the popular VSCode poimandres theme by drcmda."
-repository = "https://github.com/YOUR_USERNAME/poimandres-theme"
+repository = "https://github.com/rabin-thami/poimandres-theme-for-zed.git"
 
 [lib]
 themes = ["themes/poimandres.json"]
