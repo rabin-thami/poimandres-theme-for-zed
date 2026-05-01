@@ -1,0 +1,7 @@
+id = "poimandres"
+name = "Poimandres"
+version = "0.0.1"
+schema_version = 1
+authors = ["drcmda (ported for Zed)"]
+description = "Poimandres is a minimal, frameless dark-theme inspired mostly by blueberry. This theme tries to focus on semantic meaning instead of color variety. You'll find that it colors things like errors, voids, throws and deletes in red, types are slighty darker so that the spotlight is on the code, green new's, etc."
+repository = "https://github.com/rabin-thami/poimandres-theme-for-zed.git"
